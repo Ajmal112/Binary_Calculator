@@ -51,7 +51,7 @@ Contributions are welcome! If you would like to contribute to this binary calcul
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-The Binary Operations script is based on Wikipedia's Binary Calculator page.
+The Binary Operations script is based on HackerRank's Binary Calculator Solved Problem in 10 Days of JavaScript.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at your-email@example.com.
+If you have any questions or suggestions, feel free to contact me at freekyajmal@gmail.com.
